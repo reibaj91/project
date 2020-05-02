@@ -1,0 +1,1 @@
+Para poder Iniciar el proyecto será necesario tener PostgreSql con la configuración del archivo application.properties y la primera vez arrancar con mvn spring-boot:run para que se generen las tablar principales de usuarios, roles y roles de usuarios.
